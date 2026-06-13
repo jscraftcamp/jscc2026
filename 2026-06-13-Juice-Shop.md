@@ -1,0 +1,2 @@
+# Juice Shop (hacking)
+We spent some time hacking the [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) to find vulnerabilities and learn about web application security. The Juice Shop is a deliberately vulnerable web application that is designed to be hacked, making it a great learning tool for security enthusiasts. You can run it locally using the instructions on their website (right-hand side bar as of 2026-06-13).
